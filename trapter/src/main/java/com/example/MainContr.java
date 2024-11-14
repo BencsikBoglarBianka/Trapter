@@ -35,7 +35,7 @@ public class MainContr {
     @FXML
     private void showInfo(ActionEvent event) {
         Alert infoAlert = new Alert(Alert.AlertType.NONE);
-        infoAlert.setContentText("Csinálta: Ambrus Zsolt, 2024-11-14, Szoft I/2/N");
+        infoAlert.setContentText("Csinálta: Bencsik Boglár Bianka, 2024-11-14, Szoft I/2/N");
         infoAlert.getDialogPane().getButtonTypes().add(ButtonType.CLOSE);
         infoAlert.showAndWait();
     }

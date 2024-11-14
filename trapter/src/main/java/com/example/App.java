@@ -4,7 +4,7 @@
 * Copyright: 2024, Bencsik Boglár Bianka
 * Group: Szoft II/I/N
 * Date: 2024-11-14
-* Github: https://github.com/BencsikBoglarBianka/trapter
+* Github: https://github.com/BencsikBoglárBianka/trapter
 * Licenc: GNU GPL
 */
 package com.example;
